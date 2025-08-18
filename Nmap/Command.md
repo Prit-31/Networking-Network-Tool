@@ -1,6 +1,6 @@
 <p align="center">
 
-# 🚀 **How I Mastered Nmap: Essential Commands, Practical Examples, and Insights**
+# **How I Mastered Nmap: Essential Commands, Practical Examples, and Insights**
 
 _A hands-on journey through network scanning and security auditing with Nmap_
 
