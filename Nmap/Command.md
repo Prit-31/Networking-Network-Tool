@@ -8,17 +8,6 @@ _A hands-on journey through network scanning and security auditing with Nmap_
 </p>
 ---
 
-<style>
-  h1 {
-    color: #2c3e50;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-  p {
-    color: #34495e;
-    font-style: italic;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-</style>
 
 
 Nmap (Network Mapper) is a powerful open-source tool used for network discovery and security auditing. Below are 18 essential commands with example outputs and explanations to help you master Nmap basics.
