@@ -1,4 +1,3 @@
----
 <p align="center">
 
 # 🚀 **How I Mastered Nmap: Essential Commands, Practical Examples, and Insights**
@@ -6,9 +5,8 @@
 _A hands-on journey through network scanning and security auditing with Nmap_
 
 </p>
+
 ---
-
-
 
 Nmap (Network Mapper) is a powerful open-source tool used for network discovery and security auditing. Below are 18 essential commands with example outputs and explanations to help you master Nmap basics.
 
